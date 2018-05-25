@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Test : MonoBehaviour {
 
-     Animation Anim;    //动画
+      public Animation Anim;    //动画
      public AnimationClip Clip;     //默认动画
     void Awake()
     {
